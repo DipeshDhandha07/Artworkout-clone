@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "28072428818",
+    "project_id": "artstepacademy",
+    "storage_bucket": "artstepacademy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28072428818:android:0cdc53f90b7a717dd65fcb",
+        "android_client_info": {
+          "package_name": "com.example.artworkout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28072428818-dandsjg697vnhp5brm5mr7m4mn664s3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.artworkout",
+            "certificate_hash": "b449e5c82af6c66e3ac3b3eb6cc588447cfe7cfa"
+          }
+        },
+        {
+          "client_id": "28072428818-luppf1plrvu0rokb8kpg2u60mra2pgi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBkj-Trg2PjaQeIUFwyMv5Gnw4Pj1-DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28072428818-luppf1plrvu0rokb8kpg2u60mra2pgi6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "28072428818-jmeekg05b3sktpilihpsdv3umeesforp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.artworkout"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
